@@ -1,6 +1,6 @@
 # Mod 12h para StardewValley
 
-Este simple Mod permite que tu Reloj se vea en un formato de 12 horas
+Este simple Mod permite que tu Reloj se vea en un formato de 12 horas.
 Es un Mod opcional en caso que tu región o idioma solo te muestre el formato de 24 horas.
 Que lo disfrutes!
 
